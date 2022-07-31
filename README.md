@@ -6,7 +6,7 @@ The purpose of the project is to create a detailed Exploratory Data Analysis (ED
 
 # *2. The Data*
 
-The data that's analysed is for a [Student Performance Data Set](). The following data is given in the data set:
+The data that's analysed is for a [Student Performance Data Set](https://github.com/Chris-github01/Level-2-Capstone-Project-3-2022/blob/main/student_data.csv). The following data is given in the data set:
 
   * school
   * sex
