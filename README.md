@@ -48,7 +48,7 @@ the missing data with the appropriated  mean values
  
 ## 3.4 Data stories and visualisations
  
-In this section of the [Exploratory Data Analysis](), we extract stories and assumptions based on visualizations of the data set. The analysis is broken down into the 
+In this section of the [Exploratory Data Analysis](https://github.com/Chris-github01/Level-2-Capstone-Project-3-2022/blob/main/student.ipynb), we extract stories and assumptions based on visualizations of the data set. The analysis is broken down into the 
 following sections:
 
  * Gender analysis
