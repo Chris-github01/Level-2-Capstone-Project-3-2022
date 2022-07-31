@@ -89,7 +89,7 @@ Here we will compare the Parents' Job to their Education levels.
 
 # *4. Results*
 
-After analysing the data, a detailed report with [results]() is made.
+After analysing the data, a detailed report with [results](https://github.com/Chris-github01/Level-2-Capstone-Project-3-2022/blob/main/EDA.pdf) is made.
 
 
 
